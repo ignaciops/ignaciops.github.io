@@ -60,11 +60,11 @@ es: &DEFAULT_ES
   pagination_next            : "Siguiente"
   breadcrumb_home_label      : "Inicio"
   breadcrumb_separator       : "/"
-  menu_label                 :
+  menu_label                 : "Activar menu"
   toc_label                  : "Contenidos"
   ext_link_label             : "Enlace"
   less_than                  : "menos de"
-  minute_read                : "minuto de lectura"
+  minute_read                : "minuto(s) de lectura"
   share_on_label             : "Compartir"
   meta_label                 :
   tags_label                 : "Etiquetas:"
@@ -92,7 +92,7 @@ es: &DEFAULT_ES
   comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
   comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
   loading_label              : "Cargando..."
-es-ES:
+es-MX:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
