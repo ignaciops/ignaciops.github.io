@@ -1,5 +1,5 @@
 ---
-title: "Agnes Obel - The Curse"
+title: Agnes Obel - The Curse
 categories:
  - Musica
  - Video

@@ -1,5 +1,5 @@
 ---
-title: "6 stupid things managers do to kill morale"
+title: 6 stupid things managers do to kill morale
 categories:
  - Administracion
  - Liderazgo

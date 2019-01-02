@@ -1,5 +1,5 @@
 ---
-title: "Un tesoro enterrado..."
+title: Un tesoro enterrado...
 categories:
  - Frases
 tags:

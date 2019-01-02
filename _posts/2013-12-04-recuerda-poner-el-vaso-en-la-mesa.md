@@ -1,5 +1,5 @@
 ---
-title: "Recuerda poner el vaso en la mesa"
+title: Recuerda poner el vaso en la mesa
 categories: 
  - Reflexiones
 tags:

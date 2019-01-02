@@ -1,5 +1,5 @@
 ---
-title: "Meta cumplida"
+title: Meta cumplida
 categories:
  - Personal
 tags:

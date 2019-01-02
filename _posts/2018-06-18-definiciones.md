@@ -1,5 +1,5 @@
 ---
-title: "Definiciones"
+title: Definiciones
 categories:
  - Motivacion
 tags:

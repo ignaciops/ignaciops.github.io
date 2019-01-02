@@ -1,5 +1,5 @@
 ---
-title: "Be true to yourself"
+title: Be true to yourself
 categories:
  - Frases
 tags:

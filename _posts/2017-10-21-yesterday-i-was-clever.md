@@ -1,5 +1,5 @@
 ---
-title: "Yesterday i was clever..."
+title: Yesterday i was clever...
 categories:
  - Frases
 tags:

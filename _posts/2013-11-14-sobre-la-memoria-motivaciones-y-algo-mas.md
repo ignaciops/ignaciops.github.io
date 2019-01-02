@@ -1,5 +1,5 @@
 ---
-title: "Sobre la memoria, motivaciones y algo mas..."
+title: Sobre la memoria, motivaciones y algo mas...
 categories:
  - Motivacion
  - Administracion

@@ -1,5 +1,5 @@
 ---
-title: "Meals per Hour: Kaizen"
+title: Meals per Hour: Kaizen
 categories:
  - Administracion
  - Productividad

@@ -1,5 +1,5 @@
 ---
-title: "The Mistake Smart People Make: Being In Motion Vs. Taking Action"
+title: The Mistake Smart People Make: Being In Motion Vs. Taking Action
 categories:
  - Productividad
 tags:

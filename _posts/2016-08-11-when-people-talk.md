@@ -1,5 +1,5 @@
 ---
-title: "When people talk"
+title: When people talk
 categories: 
  - Frases
 tags:

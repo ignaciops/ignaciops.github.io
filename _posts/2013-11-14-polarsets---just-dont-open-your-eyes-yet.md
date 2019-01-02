@@ -1,5 +1,5 @@
 ---
-title: "Polarsets - Just dont open your eyes yet"
+title: Polarsets - Just dont open your eyes yet
 categories:
  - Musica
 tags:

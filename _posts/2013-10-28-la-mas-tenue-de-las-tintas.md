@@ -1,5 +1,5 @@
 ---
-title: "La mas tenue de las tintas"
+title: La mas tenue de las tintas
 categories:
  - Frases
 tags:
