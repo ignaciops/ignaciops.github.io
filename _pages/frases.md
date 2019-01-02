@@ -1,6 +1,6 @@
 ---
 title: Frases
 layout: category
-permalink: /categories/frases/
+permalink: /frases/
 taxonomy: Frases
 ---

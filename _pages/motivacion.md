@@ -1,6 +1,6 @@
 ---
 title: Motivacion
 layout: category
-permalink: /categories/motivacion/
+permalink: /motivacion/
 taxonomy: Motivacion
 ---

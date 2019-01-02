@@ -1,6 +1,6 @@
 ---
 title: Personal
 layout: category
-permalink: /categories/personal/
+permalink: /personal/
 taxonomy: Personal
 ---

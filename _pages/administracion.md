@@ -1,6 +1,6 @@
 ---
 title: Administracion
 layout: category
-permalink: /categories/administracion/
+permalink: /administracion/
 taxonomy: Administracion
 ---

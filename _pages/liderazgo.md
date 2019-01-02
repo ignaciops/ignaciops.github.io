@@ -1,6 +1,6 @@
 ---
 title: Liderazgo
 layout: category
-permalink: /categories/liderazgo/
+permalink: /liderazgo/
 taxonomy: Liderazgo
 ---

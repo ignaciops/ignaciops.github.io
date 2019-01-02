@@ -1,6 +1,6 @@
 ---
 title: Productividad
 layout: category
-permalink: /categories/productividad/
+permalink: /productividad/
 taxonomy: Productividad
 ---

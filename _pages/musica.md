@@ -1,6 +1,6 @@
 ---
 title: Musica
 layout: category
-permalink: /categories/musica/
+permalink: /musica/
 taxonomy: Musica
 ---

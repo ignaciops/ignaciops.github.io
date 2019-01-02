@@ -1,6 +1,6 @@
 ---
 title: Reflexiones
 layout: category
-permalink: /categories/reflexiones/
+permalink: /reflexiones/
 taxonomy: Reflexiones
 ---

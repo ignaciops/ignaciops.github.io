@@ -1,6 +1,6 @@
 ---
 title: Video
 layout: category
-permalink: /categories/video/
+permalink: /video/
 taxonomy: Video
 ---
