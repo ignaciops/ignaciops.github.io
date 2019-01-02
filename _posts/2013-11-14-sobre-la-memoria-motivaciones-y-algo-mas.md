@@ -26,5 +26,5 @@ Finalizo esta entrada con una frase sobre el tiempo:
 
 _Administrar de forma correcta mi tiempo es decisivo en la vida que voy a tener_
 
-[1]: {{ site.baseurl }}{% post_url 2018-03-27-la-mas-tenue-de-las-tintas %}
+[1]: {{ site.baseurl }}{% post_url 2013-10-28-la-mas-tenue-de-las-tintas %}
 [2]: http://kaliroyast.tumblr.com/
