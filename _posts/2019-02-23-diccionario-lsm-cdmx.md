@@ -6,7 +6,7 @@ tags:
  - Señas
 date: 2019-02-23 20:10:00
 ---
-<p>Corrección: Se cambió la palabra lenguaje por lengua, siendo esta última la palabra correcta.<p>{: .notice--info}
+Corrección: Se cambió la palabra lenguaje por lengua, siendo esta última la palabra correcta{: .notice--info}
 
 El año pasado se publicó el primer diccionario de Lengua de Señas Mexicanas (LSM), el cual cumple el propósito de hacer más fácil el poder aprender este idioma. Una ayuda excelente no solo para quienes tienen el deseo de aprender, sino también para quienes quieren profundizar en detalles más técnicos del idioma. 
 
